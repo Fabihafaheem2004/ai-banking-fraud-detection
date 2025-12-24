@@ -1,0 +1,11 @@
+Transaction_Amount,Age,Account_Balance,Transaction_Type,Merchant_Category,Device_Type,Transaction_Location,Transaction_Currency,Transaction_Device,City,State,Gender,Account_Type,Bank_Branch
+520.00,36,18000.00,Purchase,Grocery,Mobile,In-Store,PKR,iPhone,Karachi,Sindh,F,Checking,AlHabib Main
+1450.50,48,28000.00,Purchase,Restaurant,Mobile,In-Store,PKR,Android,Lahore,Punjab,M,Savings,AlHabib Defense
+280.75,31,10000.00,Purchase,Pharmacy,Mobile,Online,PKR,iPhone,Islamabad,ICT,F,Checking,AlHabib Blue Area
+2800.00,52,50000.00,Transfer,Utilities,Desktop,Online,PKR,Windows,Rawalpindi,Punjab,M,Premium,AlHabib Pindi
+195.25,40,14000.00,Purchase,Clothing,Mobile,In-Store,PKR,Android,Multan,Punjab,F,Checking,AlHabib Multan
+950.00,44,20000.00,Purchase,Electronics,Desktop,Online,PKR,Windows,Peshawar,KPK,M,Savings,AlHabib Peshawar
+625.50,37,17500.00,Purchase,Gas_Station,Mobile,In-Store,PKR,iPhone,Quetta,Balochistan,F,Checking,AlHabib Quetta
+1750.00,51,35000.00,Purchase,Hotel,Mobile,In-Store,PKR,Android,Faisalabad,Punjab,M,Premium,AlHabib Faisalabad
+245.75,30,11000.00,Purchase,Coffee,Mobile,Online,PKR,iPhone,Gujranwala,Punjab,F,Checking,AlHabib Gujranwala
+3500.00,49,30000.00,Transfer,Insurance,Desktop,Online,PKR,Windows,Hyderabad,Sindh,M,Savings,AlHabib Hyderabad
