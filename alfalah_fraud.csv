@@ -1,0 +1,11 @@
+Transaction_Amount,Age,Account_Balance,Transaction_Type,Merchant_Category,Device_Type,Transaction_Location,Transaction_Currency,Transaction_Device,City,State,Gender,Account_Type,Bank_Branch
+13500.00,70,400.00,Transfer,Cryptocurrency,VPN,Online,PKR,TOR,Unknown,Unknown,F,Premium,AlFalah Offshore
+17200.00,73,150.00,Purchase,Jewelry,Proxy,Online,PKR,Unknown,Havana,Cuba,M,Checking,AlFalah Havana
+11800.00,68,550.00,Purchase,Casino,VPN,Online,PKR,TOR,Beirut,Lebanon,F,Savings,AlFalah Beirut
+19500.00,75,200.00,Transfer,Wire_Transfer,Proxy,Online,PKR,Unknown,Gaza,Palestine,M,Premium,AlFalah Gaza
+10200.00,66,700.00,Purchase,Online_Shopping,VPN,Online,PKR,TOR,Kabul,Afghanistan,F,Checking,AlFalah Kabul
+16800.00,72,300.00,Transfer,Cryptocurrency,Proxy,Online,PKR,Unknown,Sana,Yemen,M,Savings,AlFalah Sana
+12500.00,69,450.00,Purchase,Jewelry,VPN,Online,PKR,TOR,Baghdad,Iraq,F,Premium,AlFalah Baghdad
+18200.00,74,180.00,Purchase,Casino,Proxy,Online,PKR,Unknown,Damascus,Syria,M,Checking,AlFalah Damascus
+14800.00,71,380.00,Transfer,Wire_Transfer,VPN,Online,PKR,TOR,Tripoli,Libya,F,Savings,AlFalah Tripoli
+20500.00,76,220.00,Purchase,Online_Shopping,Proxy,Online,PKR,Unknown,Caracas,Venezuela,M,Premium,AlFalah Caracas

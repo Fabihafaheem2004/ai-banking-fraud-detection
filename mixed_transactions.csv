@@ -1,0 +1,41 @@
+Transaction_Amount,Age,Account_Balance,Transaction_Type,Merchant_Category,Device_Type,Transaction_Location,Transaction_Currency,Transaction_Device,City,State,Gender,Account_Type,Bank_Branch
+450.50,32,15000.00,Purchase,Grocery,Mobile,In-Store,PKR,iPhone,Karachi,Sindh,M,Checking,Main Branch
+9500.00,65,500.00,Transfer,Cryptocurrency,VPN,Online,PKR,TOR,Unknown,Unknown,F,Premium,Offshore
+1200.00,45,25000.00,Purchase,Restaurant,Mobile,In-Store,PKR,Android,Lahore,Punjab,F,Savings,Defense Branch
+15000.00,72,300.00,Purchase,Jewelry,Proxy,Online,PKR,Unknown,Lagos,Nigeria,M,Checking,Lagos Branch
+350.75,28,8500.00,Purchase,Pharmacy,Mobile,Online,PKR,iPhone,Islamabad,ICT,M,Checking,Blue Area
+8750.50,58,1200.00,Transfer,Wire_Transfer,VPN,Online,PKR,TOR,Moscow,Russia,F,Savings,Moscow Branch
+2500.00,55,45000.00,Transfer,Utilities,Desktop,Online,PKR,Windows,Rawalpindi,Punjab,F,Premium,Pindi Branch
+12500.00,61,800.00,Purchase,Casino,Proxy,Online,PKR,Unknown,Manila,Philippines,M,Premium,Manila Branch
+175.25,38,12000.00,Purchase,Clothing,Mobile,In-Store,PKR,iPhone,Multan,Punjab,M,Checking,Multan Branch
+7200.00,68,450.00,Purchase,Online_Shopping,VPN,Online,PKR,TOR,Dubai,UAE,F,Checking,Dubai Branch
+890.00,42,18500.00,Purchase,Electronics,Desktop,Online,PKR,Windows,Peshawar,KPK,F,Savings,Peshawar Branch
+18000.00,75,200.00,Transfer,Cryptocurrency,Proxy,Online,PKR,Unknown,Singapore,Singapore,M,Premium,Singapore Branch
+550.50,35,16000.00,Purchase,Gas_Station,Mobile,In-Store,PKR,Android,Quetta,Balochistan,M,Checking,Quetta Branch
+6500.00,62,600.00,Purchase,Jewelry,VPN,Online,PKR,TOR,Bangkok,Thailand,F,Savings,Bangkok Branch
+1500.00,50,32000.00,Purchase,Hotel,Mobile,In-Store,PKR,iPhone,Faisalabad,Punjab,F,Premium,Faisalabad Branch
+11200.00,70,350.00,Transfer,Wire_Transfer,Proxy,Online,PKR,Unknown,Hong Kong,Hong Kong,M,Checking,HK Branch
+225.75,29,9500.00,Purchase,Coffee,Mobile,Online,PKR,Android,Gujranwala,Punjab,M,Checking,Gujranwala Branch
+9800.00,64,900.00,Purchase,Casino,VPN,Online,PKR,TOR,Macau,Macau,F,Premium,Macau Branch
+3200.00,48,28000.00,Transfer,Insurance,Desktop,Online,PKR,Windows,Hyderabad,Sindh,F,Savings,Hyderabad Branch
+14500.00,69,250.00,Purchase,Online_Shopping,Proxy,Online,PKR,Unknown,Panama,Panama,M,Savings,Panama Branch
+520.00,36,18000.00,Purchase,Grocery,Mobile,In-Store,PKR,iPhone,Karachi,Sindh,F,Checking,Main Branch
+13500.00,70,400.00,Transfer,Cryptocurrency,VPN,Online,PKR,TOR,Unknown,Unknown,F,Premium,Offshore
+1450.50,48,28000.00,Purchase,Restaurant,Mobile,In-Store,PKR,Android,Lahore,Punjab,M,Savings,Defense Branch
+17200.00,73,150.00,Purchase,Jewelry,Proxy,Online,PKR,Unknown,Havana,Cuba,M,Checking,Havana Branch
+280.75,31,10000.00,Purchase,Pharmacy,Mobile,Online,PKR,iPhone,Islamabad,ICT,F,Checking,Blue Area
+11800.00,68,550.00,Purchase,Casino,VPN,Online,PKR,TOR,Beirut,Lebanon,F,Savings,Beirut Branch
+2800.00,52,50000.00,Transfer,Utilities,Desktop,Online,PKR,Windows,Rawalpindi,Punjab,M,Premium,Pindi Branch
+19500.00,75,200.00,Transfer,Wire_Transfer,Proxy,Online,PKR,Unknown,Gaza,Palestine,M,Premium,Gaza Branch
+195.25,40,14000.00,Purchase,Clothing,Mobile,In-Store,PKR,Android,Multan,Punjab,F,Checking,Multan Branch
+10200.00,66,700.00,Purchase,Online_Shopping,VPN,Online,PKR,TOR,Kabul,Afghanistan,F,Checking,Kabul Branch
+950.00,44,20000.00,Purchase,Electronics,Desktop,Online,PKR,Windows,Peshawar,KPK,M,Savings,Peshawar Branch
+16800.00,72,300.00,Transfer,Cryptocurrency,Proxy,Online,PKR,Unknown,Sana,Yemen,M,Savings,Sana Branch
+625.50,37,17500.00,Purchase,Gas_Station,Mobile,In-Store,PKR,iPhone,Quetta,Balochistan,F,Checking,Quetta Branch
+12500.00,69,450.00,Purchase,Jewelry,VPN,Online,PKR,TOR,Baghdad,Iraq,F,Premium,Baghdad Branch
+1750.00,51,35000.00,Purchase,Hotel,Mobile,In-Store,PKR,Android,Faisalabad,Punjab,M,Premium,Faisalabad Branch
+18200.00,74,180.00,Purchase,Casino,Proxy,Online,PKR,Unknown,Damascus,Syria,M,Checking,Damascus Branch
+245.75,30,11000.00,Purchase,Coffee,Mobile,Online,PKR,iPhone,Gujranwala,Punjab,F,Checking,Gujranwala Branch
+14800.00,71,380.00,Transfer,Wire_Transfer,VPN,Online,PKR,TOR,Tripoli,Libya,F,Savings,Tripoli Branch
+3500.00,49,30000.00,Transfer,Insurance,Desktop,Online,PKR,Windows,Hyderabad,Sindh,M,Savings,Hyderabad Branch
+20500.00,76,220.00,Purchase,Online_Shopping,Proxy,Online,PKR,Unknown,Caracas,Venezuela,M,Premium,Caracas Branch

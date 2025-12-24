@@ -1,0 +1,16 @@
+transaction_id,amount,merchant_category,transaction_time,customer_age,account_balance,transaction_frequency,days_since_last_transaction,merchant_risk_score,device_type,location_change,previous_fraud_flag
+TXN001,150.50,Grocery,14:30:00,35,5000.00,12,2,0.1,Mobile,0,0
+TXN002,2500.00,Electronics,09:15:00,42,8500.00,5,15,0.3,Desktop,1,0
+TXN003,45.99,Restaurant,19:45:00,28,3200.00,25,1,0.05,Mobile,0,0
+TXN004,9999.99,Jewelry,02:30:00,55,12000.00,2,45,0.8,Unknown,1,1
+TXN005,89.50,Pharmacy,10:20:00,38,6500.00,18,3,0.15,Mobile,0,0
+TXN006,5000.00,Wire_Transfer,23:59:00,31,2000.00,1,90,0.9,VPN,1,0
+TXN007,125.00,Gas_Station,16:45:00,45,7200.00,20,2,0.08,Mobile,0,0
+TXN008,3500.00,Online_Shopping,03:00:00,29,4500.00,8,20,0.6,Proxy,1,1
+TXN009,65.75,Coffee,12:00:00,33,5500.00,30,1,0.02,Mobile,0,0
+TXN010,8500.00,Casino,04:15:00,50,1500.00,3,60,0.95,TOR,1,1
+TXN011,200.00,Clothing,13:30:00,40,9000.00,15,5,0.12,Desktop,0,0
+TXN012,1200.00,Hotel,18:00:00,37,11000.00,4,30,0.25,Mobile,1,0
+TXN013,55.00,Supermarket,11:15:00,26,2800.00,28,1,0.05,Mobile,0,0
+TXN014,6500.00,Cryptocurrency,05:30:00,44,500.00,1,120,0.98,VPN,1,1
+TXN015,175.50,Bookstore,15:45:00,39,6800.00,10,7,0.10,Desktop,0,0
