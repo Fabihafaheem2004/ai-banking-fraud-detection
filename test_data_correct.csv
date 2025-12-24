@@ -1,0 +1,16 @@
+Transaction_Amount,Age,Account_Balance,Transaction_Type,Merchant_Category,Device_Type,Transaction_Location,Transaction_Currency,Transaction_Device,City,State,Gender,Account_Type,Bank_Branch
+150.50,35,5000.00,Purchase,Grocery,Mobile,Online,USD,iPhone,New York,NY,M,Checking,Manhattan
+2500.00,42,8500.00,Transfer,Electronics,Desktop,In-Store,USD,Windows,Los Angeles,CA,F,Savings,Downtown
+45.99,28,3200.00,Purchase,Restaurant,Mobile,Online,USD,Android,Chicago,IL,M,Checking,Loop
+9999.99,55,12000.00,Purchase,Jewelry,Unknown,In-Store,USD,Unknown,Houston,TX,F,Premium,Uptown
+89.50,38,6500.00,Purchase,Pharmacy,Mobile,Online,USD,iPhone,Phoenix,AZ,M,Checking,Central
+5000.00,31,2000.00,Transfer,Wire_Transfer,VPN,Online,USD,Windows,Philadelphia,PA,F,Savings,Downtown
+125.00,45,7200.00,Purchase,Gas_Station,Mobile,In-Store,USD,iPhone,San Antonio,TX,M,Checking,North
+3500.00,29,4500.00,Purchase,Online_Shopping,Proxy,Online,USD,Android,San Diego,CA,F,Checking,South
+65.75,33,5500.00,Purchase,Coffee,Mobile,In-Store,USD,iPhone,Dallas,TX,M,Checking,Central
+8500.00,50,1500.00,Purchase,Casino,TOR,Online,USD,Windows,San Jose,CA,F,Premium,Downtown
+200.00,40,9000.00,Purchase,Clothing,Desktop,Online,USD,Windows,Austin,TX,M,Savings,North
+1200.00,37,11000.00,Purchase,Hotel,Mobile,In-Store,USD,iPhone,Jacksonville,FL,F,Premium,Beach
+55.00,26,2800.00,Purchase,Supermarket,Mobile,Online,USD,Android,Fort Worth,TX,M,Checking,Downtown
+6500.00,44,500.00,Transfer,Cryptocurrency,VPN,Online,USD,Windows,Columbus,OH,F,Premium,Downtown
+175.50,39,6800.00,Purchase,Bookstore,Desktop,Online,USD,Windows,Charlotte,NC,M,Savings,Midtown
