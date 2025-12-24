@@ -1,0 +1,11 @@
+Transaction_Amount,Age,Account_Balance,Transaction_Type,Merchant_Category,Device_Type,Transaction_Location,Transaction_Currency,Transaction_Device,City,State,Gender,Account_Type,Bank_Branch
+450.50,32,15000.00,Purchase,Grocery,Mobile,In-Store,PKR,iPhone,Karachi,Sindh,M,Checking,Meezan Main
+1200.00,45,25000.00,Purchase,Restaurant,Mobile,In-Store,PKR,Android,Lahore,Punjab,F,Savings,Meezan Defense
+350.75,28,8500.00,Purchase,Pharmacy,Mobile,Online,PKR,iPhone,Islamabad,ICT,M,Checking,Meezan Blue Area
+2500.00,55,45000.00,Transfer,Utilities,Desktop,Online,PKR,Windows,Rawalpindi,Punjab,F,Premium,Meezan Pindi
+175.25,38,12000.00,Purchase,Clothing,Mobile,In-Store,PKR,iPhone,Multan,Punjab,M,Checking,Meezan Multan
+890.00,42,18500.00,Purchase,Electronics,Desktop,Online,PKR,Windows,Peshawar,KPK,F,Savings,Meezan Peshawar
+550.50,35,16000.00,Purchase,Gas_Station,Mobile,In-Store,PKR,Android,Quetta,Balochistan,M,Checking,Meezan Quetta
+1500.00,50,32000.00,Purchase,Hotel,Mobile,In-Store,PKR,iPhone,Faisalabad,Punjab,F,Premium,Meezan Faisalabad
+225.75,29,9500.00,Purchase,Coffee,Mobile,Online,PKR,Android,Gujranwala,Punjab,M,Checking,Meezan Gujranwala
+3200.00,48,28000.00,Transfer,Insurance,Desktop,Online,PKR,Windows,Hyderabad,Sindh,F,Savings,Meezan Hyderabad
