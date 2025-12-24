@@ -1,0 +1,11 @@
+Transaction_Amount,Age,Account_Balance,Transaction_Type,Merchant_Category,Device_Type,Transaction_Location,Transaction_Currency,Transaction_Device,City,State,Gender,Account_Type,Bank_Branch
+9500.00,65,500.00,Transfer,Cryptocurrency,VPN,Online,PKR,TOR,Unknown,Unknown,M,Premium,HBL Offshore
+15000.00,72,300.00,Purchase,Jewelry,Proxy,Online,PKR,Unknown,Lagos,Nigeria,F,Checking,HBL Lagos
+8750.50,58,1200.00,Transfer,Wire_Transfer,VPN,Online,PKR,TOR,Moscow,Russia,M,Savings,HBL Moscow
+12500.00,61,800.00,Purchase,Casino,Proxy,Online,PKR,Unknown,Manila,Philippines,F,Premium,HBL Manila
+7200.00,68,450.00,Purchase,Online_Shopping,VPN,Online,PKR,TOR,Dubai,UAE,M,Checking,HBL Dubai
+18000.00,75,200.00,Transfer,Cryptocurrency,Proxy,Online,PKR,Unknown,Singapore,Singapore,F,Premium,HBL Singapore
+6500.00,62,600.00,Purchase,Jewelry,VPN,Online,PKR,TOR,Bangkok,Thailand,M,Savings,HBL Bangkok
+11200.00,70,350.00,Transfer,Wire_Transfer,Proxy,Online,PKR,Unknown,Hong Kong,Hong Kong,F,Checking,HBL HK
+9800.00,64,900.00,Purchase,Casino,VPN,Online,PKR,TOR,Macau,Macau,M,Premium,HBL Macau
+14500.00,69,250.00,Purchase,Online_Shopping,Proxy,Online,PKR,Unknown,Panama,Panama,F,Savings,HBL Panama

@@ -1,0 +1,11 @@
+Transaction_Amount,Age,Account_Balance,Transaction_Type,Merchant_Category,Device_Type,Transaction_Location,Transaction_Currency,Transaction_Device,City,State,Gender,Account_Type,Bank_Branch
+19999.99,80,100.00,Transfer,Cryptocurrency,TOR,Online,PKR,Unknown,North Korea,NK,M,Premium,Askari Offshore
+25000.00,85,50.00,Purchase,Jewelry,VPN,Online,PKR,TOR,Iran,Iran,F,Checking,Askari Tehran
+16500.00,78,200.00,Purchase,Casino,Proxy,Online,PKR,Unknown,Syria,Syria,M,Savings,Askari Damascus
+22000.00,82,150.00,Transfer,Wire_Transfer,VPN,Online,PKR,TOR,Yemen,Yemen,F,Premium,Askari Sanaa
+18500.00,76,300.00,Purchase,Online_Shopping,Proxy,Online,PKR,Unknown,Sudan,Sudan,M,Checking,Askari Khartoum
+21500.00,81,75.00,Transfer,Cryptocurrency,TOR,Online,PKR,Unknown,Somalia,Somalia,F,Premium,Askari Mogadishu
+17800.00,79,180.00,Purchase,Jewelry,VPN,Online,PKR,TOR,Libya,Libya,M,Savings,Askari Tripoli
+24000.00,83,120.00,Purchase,Casino,Proxy,Online,PKR,Unknown,Venezuela,Venezuela,F,Checking,Askari Caracas
+20500.00,77,250.00,Transfer,Wire_Transfer,VPN,Online,PKR,TOR,Zimbabwe,Zimbabwe,M,Premium,Askari Harare
+23500.00,84,90.00,Purchase,Online_Shopping,Proxy,Online,PKR,Unknown,Myanmar,Myanmar,F,Savings,Askari Yangon
